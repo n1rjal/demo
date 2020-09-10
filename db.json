@@ -1,14 +1,78 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"id": 1,
+"review": [
+{
+"id": 2,
+"replies": [],
+"user": "rupeshrnepal@gmail.com",
+"body": "",
+"datetime": "2020-08-30T15:53:47.831751",
+"date": "2020-08-30",
+"rate": 4,
+"item": 1
+},
+{
+"id": 1,
+"replies": [
+{
+"user": "nirjalpaudel54312@gmail.com",
+"body": "too good peace",
+"datetime": "2020-08-24T13:28:13.380807",
+"date": "2020-08-24",
+"review": 1
 }
+],
+"user": "nirjalpaudel54312@gmail.com",
+"body": "Nice Bag",
+"datetime": "2020-08-24T13:28:00.028496",
+"date": "2020-08-24",
+"rate": 4,
+"item": 1
+}
+],
+"tag": [
+{
+"name": "contemporary"
+},
+{
+"name": "travel"
+}
+],
+"pictures": [
+{
+"image": "https://hamrobakas.com/media/items/pp/product-hans-backpack-680x844.jpg"
+},
+{
+"image": "https://hamrobakas.com/media/items/pp/product-hans-backpack-2-680x844.jpg"
+}
+],
+"addinfo": [
+{
+"name": "Color",
+"value": "green,red,blue",
+"addtoform": true
+},
+{
+"name": "Size",
+"value": "medium",
+"addtoform": false
+}
+],
+"totalratings": 2,
+"ratings": {
+"4.0": 2
+},
+"oldprice": 1680,
+"newprice": 1461,
+"name": "Henry Bagpack",
+"price": 1680,
+"desp": "Authentic keffiyeh master cleanse. Fingerstache semiotics PBR quinoa. Pop-up Godard kale chips, trust fund Neutra fingerstache paleo Wes Anderson. Deep v single-origin coffee cred Thundercats beard. Mumblecore before they sold out roof party biodiesel. Banksy swag Portland readymade synth messenger bag cliche.",
+"dateadded": "2020-08-29",
+"code": "henry-bagpack",
+"discount": 0.13,
+"realtimeprice": 1461,
+"status": "instock",
+"category": 1
+}
+]
